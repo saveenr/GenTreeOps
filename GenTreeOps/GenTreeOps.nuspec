@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GenTreeOps</id>
+    <version>1.0.0</version>
+    <title>GenTreeOps</title>
+    <authors>saveenr</authors>
+    <owners>saveenr</owners>
+    <licenseUrl>https://github.com/saveenr/GenTreeOps/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/saveenr/GenTreeOps</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utilities for enumerating hierarchical structures</description>
+    <releaseNotes>Initial version</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+</package>
